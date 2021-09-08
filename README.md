@@ -26,6 +26,18 @@ git clone https://github.com/lina-6020/BUITRAGO-ARSW-T2
 ```
 mvn package
 ```
+3. **Servicio Web**  
+Para observar la pagina web se debera escribir la siguiente URL en el browser de preferencia
+    ```
+    http://localhost:35000/
+    ```
+Y para hacer una consulta se debera pone lo siguiente
+    ```
+    http://localhost:35000/city
+    ```	
+	
+    ![image](https://user-images.githubusercontent.com/59893804/132589324-bbc7756d-e384-4ba4-9370-a79f2b40aedf.png)
+    ![image](https://user-images.githubusercontent.com/59893804/132589294-19f002ed-4149-449d-b104-f57dfa05d4e1.png)
 
 ### Despliegue en Heroku 
 > Para desplegar el programa directamente desde el servicio de ```Heroku``` damos clic al siguiente link.Bastaria solo con ingresar la ciudad a consultar.
