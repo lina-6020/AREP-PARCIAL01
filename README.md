@@ -33,7 +33,10 @@ mvn package
  
 > [![](/img/deploy.PNG)]
 
-### Explicación
+## Explicación
+
+Al abrir el aplicativo bastara con diligenciar la ciudad a consultar y observar la información.
+
 
 ## Tecnologias Usadas
 
