@@ -31,7 +31,7 @@ mvn package
 > Para desplegar el programa directamente desde el servicio de ```Heroku``` damos clic al siguiente link.Bastaria solo con ingresar la ciudad a consultar.
 
  
-> [![](/img/deploy.PNG)]
+> [![](/img/deploy.PNG)](https://arep-parcial012021-1.herokuapp.com/city)
 
 ## Explicación
 
