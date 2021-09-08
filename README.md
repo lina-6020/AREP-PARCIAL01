@@ -24,8 +24,12 @@ Clonamos el proyecto con el siguiente comando
 ```
 git clone https://github.com/lina-6020/BUITRAGO-ARSW-T2
 ```
+### Despliegue en Heroku 
+> Para desplegar el programa directamente desde el servicio de ```Heroku``` damos clic al siguiente link.
+> 
+> [![](/img/deploy.PNG)]
 
-
+### Explicación
 
 ## Tecnologias Usadas
 
@@ -34,10 +38,6 @@ git clone https://github.com/lina-6020/BUITRAGO-ARSW-T2
 * Heroku 
 * Java
 
-## Despliegue en Heroku 
-> Para desplegar el programa directamente desde el servicio de ```Heroku``` damos clic al siguiente link.
-> 
-> [![](/img/deploy.PNG)]
 
 
 ## Manejo de Versiones
@@ -51,9 +51,9 @@ El versionamiento se realizó a través de [github](https://github.com/lina-6020
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details
+This project is licensed under the MIT License _LICENSE.txt_
 
-### Explicación
+
 
 
 
