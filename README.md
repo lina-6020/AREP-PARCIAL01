@@ -1,7 +1,7 @@
 # PARCIAL PRIMER CORTE 
 Contexto:
 
-* Construir una aplicación web simple desplegada en Heroku.La aplicación debe consultar el estado del clima en lugares específicos de la tierra.  La aplicación recibirá en un campo la descripción de una ciudad y deberá mostrar la información del clima para esa ciudad.
+* Construir una aplicación web simple desplegada en Heroku.La aplicación debe consultar el estado del clima en lugares específicos de la tierra.  La aplicación recibirá en un campo la descripción de una ciudad y deberá mostrar la información del clima para esa ciudad.Utilice el servicio "Current Weather Data" de openweathermap.org.
 
 
 ### Pre- requisitos 
@@ -18,25 +18,28 @@ Apache Maven 3.6.3
 ## Ejecución del Proyecto
 ### Instalación
 
-Clonamos el proyecto con el siguiente comando
-
-
+1. **Clonamos el proyecto con el siguiente comando**
 ```
 git clone https://github.com/lina-6020/BUITRAGO-ARSW-T2
 ```
+2. **Compilar Proyecto**
+```
+mvn package
+```
+
 ### Despliegue en Heroku 
-> Para desplegar el programa directamente desde el servicio de ```Heroku``` damos clic al siguiente link.
-> 
+> Para desplegar el programa directamente desde el servicio de ```Heroku``` damos clic al siguiente link.Bastaria solo con ingresar la ciudad a consultar.
+
+ 
 > [![](/img/deploy.PNG)]
 
 ### Explicación
 
 ## Tecnologias Usadas
 
-* Maven
-* Git 
-* Heroku 
-* Java
+* [Maven](https://maven.apache.org/) - Manejador de dependencias
+* [Git](https://git-scm.com/) - Software de control de versiones
+* [Java 8](https://www.java.com/es/download/ie_manual.jsp) - Entorno de desarrollo
 
 
 
@@ -49,9 +52,9 @@ El versionamiento se realizó a través de [GITHUB](https://github.com/lina-6020
 * **Lina Maria Buitrago Espindola** - [lina-6020](https://github.com/lina-6020)
 
 
-## License
+## Licencia
 
-This project is licensed under the MIT License _LICENSE.txt_
+Este proyecto está bajo la Licencia GNU General Public License _LICENSE.txt_
 
 
 
