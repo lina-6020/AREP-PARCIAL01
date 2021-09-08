@@ -42,7 +42,7 @@ git clone https://github.com/lina-6020/BUITRAGO-ARSW-T2
 
 ## Manejo de Versiones
 
-El versionamiento se realizó a través de [github](https://github.com/lina-6020/BUITRAGO-ARSW-T2)
+El versionamiento se realizó a través de [GITHUB](https://github.com/lina-6020/AREP-PARCIAL01)
 
 ## Autor
 
