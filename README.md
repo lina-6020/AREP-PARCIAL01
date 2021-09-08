@@ -41,9 +41,8 @@ Y para hacer una consulta se debera pone lo siguiente
 
 ### Despliegue en Heroku 
 > Para desplegar el programa directamente desde el servicio de ```Heroku``` damos clic al siguiente link.Bastaria solo con ingresar la ciudad a consultar.
-
- 
-> [![](/img/deploy.PNG)]
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://arep-parcial012021-1.herokuapp.com/)
+El despliegue de la aplicación se encuentra en [HTTP-SERVER](https://arep-parcial012021-1.herokuapp.com/)
 
 ## Explicación
 
